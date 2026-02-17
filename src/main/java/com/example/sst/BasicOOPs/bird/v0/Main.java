@@ -1,8 +1,8 @@
-package com.example.sst.BaicOOPs.bird;
+package com.example.sst.BasicOOPs.bird.v0;
 
-import com.example.sst.BaicOOPs.bird.fly.CanFly;
-import com.example.sst.BaicOOPs.bird.fly.CannotFly;
-import com.example.sst.BaicOOPs.bird.walk.Walk;
+import com.example.sst.BasicOOPs.bird.v0.fly.CanFly;
+import com.example.sst.BasicOOPs.bird.v0.fly.CannotFly;
+import com.example.sst.BasicOOPs.bird.v0.walk.Walk;
 
 public class Main {
     public static void main(String[] args) {

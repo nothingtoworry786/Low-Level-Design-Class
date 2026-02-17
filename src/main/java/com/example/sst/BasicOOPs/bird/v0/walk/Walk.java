@@ -1,4 +1,4 @@
-package com.example.sst.BaicOOPs.bird.walk;
+package com.example.sst.BasicOOPs.bird.v0.walk;
 
 public class Walk implements WalkBehavior {
     @Override

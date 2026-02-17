@@ -1,7 +1,7 @@
-package com.example.sst.BaicOOPs.bird;
+package com.example.sst.BasicOOPs.bird.v0;
 
-import com.example.sst.BaicOOPs.bird.fly.FlyBehavior;
-import com.example.sst.BaicOOPs.bird.walk.WalkBehavior;
+import com.example.sst.BasicOOPs.bird.v0.fly.FlyBehavior;
+import com.example.sst.BasicOOPs.bird.v0.walk.WalkBehavior;
 
 public class Bird {
     private FlyBehavior flyBehavior;

@@ -1,4 +1,4 @@
-package com.example.sst.BaicOOPs.bird.fly;
+package com.example.sst.BasicOOPs.bird.v0.fly;
 
 public class CanFly implements FlyBehavior{
     @Override
