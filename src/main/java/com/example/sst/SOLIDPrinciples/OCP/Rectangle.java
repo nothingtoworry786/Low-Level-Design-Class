@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.OCP;
+package com.example.sst.SOLIDPrinciples.OCP;
 
 public class Rectangle implements Shape {
 

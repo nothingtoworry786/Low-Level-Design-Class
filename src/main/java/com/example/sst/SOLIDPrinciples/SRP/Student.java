@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.SRP;
+package com.example.sst.SOLIDPrinciples.SRP;
 
 public class Student {
     private  String name;

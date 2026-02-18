@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.DIP;
+package com.example.sst.SOLIDPrinciples.DIP;
 
 public class SMSService implements  NotificationChannel{
 

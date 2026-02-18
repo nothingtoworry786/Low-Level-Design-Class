@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.SRP;
+package com.example.sst.SOLIDPrinciples.SRP;
 
 public class CalculateGrade {
     public String gradecalculate(Student student){

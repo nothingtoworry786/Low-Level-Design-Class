@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.ISP;
+package com.example.sst.SOLIDPrinciples.ISP;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.LSP;
+package com.example.sst.SOLIDPrinciples.LSP;
 
 public class ReadOnlyFile extends ReadableFile{
 }

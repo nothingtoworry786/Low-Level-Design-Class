@@ -1,4 +1,4 @@
-package com.example.designpatterns.SOLIDPrinciples.OCP;
+package com.example.sst.SOLIDPrinciples.OCP;
 
 public class main {
     public static void main(String[] args) {
